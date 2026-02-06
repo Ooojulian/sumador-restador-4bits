@@ -54,6 +54,3 @@ graph TD
     style F fill:#ccf,stroke:#333
 
 
-## Descargar el proyecto
-
-
