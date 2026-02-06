@@ -16,6 +16,30 @@ Implementación educativa de un sumador-restador de 4 bits utilizando únicament
 - ✅ Documentación detallada
 - ✅ Ejemplos interactivos
 
+## Descargar el proyecto
+
+Copia este comando en la terminal
+git clone https://github.com/Ooojulian/sumador-restador-4bits.git
+
+Entra a la carpeta
+cd sumador-restador-4bits
+
+
+## Probar que funciona
+Abre una terminal en la carpeta del proyecto y ejecuta:
+
+python examples/interactive_demo.py
+
+## Demo interactiva
+python examples/interactive_demo.py
+
+## Ejemplos predefinidos
+python examples/basic_operations.py
+
+## Ejemplo avanzado
+python examples/advanced_examples.py
+
+
 ## 🏗️ Arquitectura del Proyecto
 
 ```mermaid
@@ -28,3 +52,8 @@ graph TD
     
     style A fill:#f9f,stroke:#333
     style F fill:#ccf,stroke:#333
+
+
+## Descargar el proyecto
+
+
